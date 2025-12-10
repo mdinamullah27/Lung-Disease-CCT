@@ -1,0 +1,8 @@
+for (i = 1; i <= 1350; i++) {
+	run("Open Next");
+            
+            run("8-bit");
+            run("Green Fire Blue");
+	saveAs("Png", "G:/Thorax/Dataset Preparation/Data Augmentation/Test/Atelectasis_gfb/gfb"+i+".png");
+	
+}
