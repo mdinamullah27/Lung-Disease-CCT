@@ -63,7 +63,7 @@ This work proposes a solution: a **Modified Compact Convolutional Transformer (M
 
 🧑‍💻 GitHub: https://github.com/mdinamullah27
 
-📧 Email: your-inamkhan.me@gmail.com
+📧 Email: inamkhan.me@gmail.com
 
 ## 📚 Citation  
 
