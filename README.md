@@ -57,6 +57,14 @@ This work proposes a solution: a **Modified Compact Convolutional Transformer (M
 
 ---
 
+📬 Contact / Links
+
+🔗 ResearchGate Profile: https://www.researchgate.net/profile/Inam-Ullah-Khan-2
+
+🧑‍💻 GitHub: https://github.com/mdinamullah27
+
+📧 Email: your-inamkhan.me@gmail.com
+
 ## 📚 Citation  
 
 If you use this work, please cite:
@@ -70,10 +78,3 @@ If you use this work, please cite:
   volume  = {16},
   pages   = {200147}
 }
-📬 Contact / Links
-
-🔗 ResearchGate Profile: https://www.researchgate.net/profile/Inam-Ullah-Khan-2
-
-🧑‍💻 GitHub: https://github.com/mdinamullah27
-
-📧 Email: your-inamkhan.me@gmail.com
