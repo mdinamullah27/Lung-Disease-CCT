@@ -49,11 +49,10 @@ This work proposes a solution: a **Modified Compact Convolutional Transformer (M
 
 ## 📝 How to Use / Reproduce  
 
-1. Clone this repository  
-2. Install dependencies (e.g. via `requirements.txt`)  
-3. Preprocess data (artifact removal, normalization, augmentation / GAN balancing)  
-4. Train MCCT model (on 32×32 images) or evaluate using pretrained weights (if provided)  
-5. Evaluate and compare results with baseline models  
+
+Preprocess data (artifact removal, normalization, augmentation / GAN balancing)  
+Train MCCT model (on 32×32 images) or evaluate using pretrained weights (if provided)  
+Evaluate and compare results with baseline models  
 
 ---
 
